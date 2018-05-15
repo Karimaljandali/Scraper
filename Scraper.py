@@ -1,3 +1,11 @@
+########################################
+#        Made by Karim Aljandali       #
+#              05-11-18                #
+########################################
+
+#Directions:  Install the newest version of python.  Then pip install beautifulsoup4 and pip install lxml
+
+
 import bs4 as bs
 import urllib.request
 import csv
